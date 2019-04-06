@@ -1,4 +1,4 @@
-#!\usr\bin\python
+#! python3
 
 import psycopg2
 from config import config

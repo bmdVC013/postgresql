@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#! python3 
 from configparser import ConfigParser 
 
 def config(filename='database.ini', section='postgresql'):
